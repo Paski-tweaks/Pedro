@@ -1,1 +1,1 @@
-Addon that plays the Pedro meme sound when you level up. Animation is currently wip.
+WoW 1.12.1 addon that plays Pedro meme sound on level up.
