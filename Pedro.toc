@@ -1,0 +1,7 @@
+## Interface: 11200
+## Version: 1.0.0
+## Title: Pedro
+## Notes: Addon that plays Pedro Pedro Pedro song when you ding.
+## Author: Paski
+
+Pedro.lua

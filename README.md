@@ -1,0 +1,1 @@
+Addon that plays the Pedro meme sound when you level up. Animation is currently wip.

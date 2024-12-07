@@ -1,0 +1,5 @@
+local f = CreateFrame("Frame")
+f:RegisterEvent("PLAYER_LEVEL_UP")
+f:SetScript("OnEvent", function()
+	PlaySoundFile("Interface\\AddOns\\Pedro\\Pedro.mp3", "Master")
+end)
